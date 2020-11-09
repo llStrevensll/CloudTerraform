@@ -5,7 +5,7 @@ terraform {
     organization = "strevens"
 
     workspaces {
-      name = "TerraformAsocciate"
+      name = "CloudTerraform"
     }
   }
 }
